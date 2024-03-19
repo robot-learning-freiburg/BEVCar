@@ -37,7 +37,7 @@ We will release the code upon the acceptance of our paper.
 
 ## 👩‍⚖️  License
 
-For academic usage, the code is released under the [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
+The code is released under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 For any commercial purpose, please contact the authors.
 
 
