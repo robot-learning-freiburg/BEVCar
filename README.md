@@ -1,5 +1,5 @@
 # BEVCar
-[**arXiv**](https://arxiv.org) | [**Website**](http://bevcar.cs.uni-freiburg.de/) | [**Video**](https://youtu.be/bB_k_6IvPHQ?feature=shared)
+[**arXiv**](https://arxiv.org/abs/2403.11761) | [**Website**](http://bevcar.cs.uni-freiburg.de/) | [**Video**](https://youtu.be/bB_k_6IvPHQ?feature=shared)
 
 This repository is the official implementation of the paper:
 
@@ -8,7 +8,7 @@ This repository is the official implementation of the paper:
 > [Jonas Schramm]()&ast;, [Niclas Vödisch](https://vniclas.github.io/)&ast;, [Kürsat Petek](http://www2.informatik.uni-freiburg.de/~petek/)&ast;, [B Ravi Kiran](), [Senthil Yogamani](), [Wolfram Burgard](https://www.utn.de/person/wolfram-burgard/), and [Abhinav Valada](https://rl.uni-freiburg.de/people/valada). <br>
 > &ast;Equal contribution. <br> 
 > 
-> *under review*, 2024
+> *arXiv preprint arXiv:2403.11761*, 2024
 
 <p align="center">
   <img src="./assets/bevcar_overview.png" alt="Overview of BEVCar approach" width="800" />
@@ -19,7 +19,7 @@ If you find our work useful, please consider citing our paper:
 @article{schramm2024bevcar,
   title={BEVCar: Camera-Radar Fusion for BEV Map and Object Segmentation},
   author={Schramm, Jonas and Vödisch, Niclas and Petek, Kürsat and Kiran, B Ravi and Yogamani, Senthil and Burgard, Wolfram and Valada, Abhinav},
-  journal={},
+  journal={arXiv preprint arXiv:2403.11761},
   year={2024}
 }
 ```
