@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+preferred-citation:
+    title: "BEVCar: Camera-Radar Fusion for BEV Map and Object Segmentation"
+    authors:
+    - family-names: "Schramm"
+      given-names: "Jonas"
+    - family-names: "Vödisch"
+      given-names: "Niclas"
+    - family-names: "Petek"
+      given-names: "Kürsat"
+    - family-names: "Kiran"
+      given-names: "B Ravi"
+    - family-names: "Yogamani"
+      given-names: "Senthil"
+    - family-names: "Burgard"
+      given-names: "Wolfram"
+    - family-names: "Valada"
+      given-names: "Abhinav"
+    journal: "arXiv preprint arXiv:2403.11761"
+    year: "2024"
+    type: "article"
+    codeurl: "https://github.com/robot-learning-freiburg/BEVCar"

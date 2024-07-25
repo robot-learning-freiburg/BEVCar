@@ -1,0 +1,28 @@
+fire==0.4.0
+torch
+torchvision
+numpy
+efficientnet_pytorch==0.7.1
+pyquaternion==0.9.9
+nuscenes-devkit
+opencv-python==4.6.0.66
+tensorboardX==2.2
+matplotlib==3.5.1
+scikit-learn==1.1.2
+scikit-image==0.19.3
+protobuf==3.19.4
+tensorboard==2.10.0
+Pillow==9.5.0
+git+https://github.com/lyft/nuscenes-devkit
+# shapely must be < 2.0 since a newer version is not compatible with the nuscenes map api
+shapely==1.8.5
+wandb
+# for Deformable-DETR
+pycocotools
+tqdm
+cython
+scipy
+imageio
+tabulate
+pre-commit
+yapf

@@ -1,0 +1,50 @@
+# model name
+exp_name: 'BEVCar_VIS_EVAL'
+
+# Eval parameters
+log_freq: 100
+dset: 'trainval'
+batch_size: 1  # keep it at 1 for the moment
+timesteps: 40
+vis_full_scenes: true
+nworkers: 8
+do_drn_val_split: true
+
+# Directories
+data_dir: '/datasets/nuscenes'
+custom_dataroot: 'datasets/scaled_images'
+log_dir: 'logs_nuscenes'
+img_dir: 'vis_eval'
+init_dir: 'model_checkpoints/BEVCar'
+ignore_load: null
+load_step: 50000
+
+# Data parameters
+final_dim: [448, 896]  # to match //8, //14, //16 and //32 in Vit
+ncams: 6
+nsweeps: 5
+
+# Model parameters
+encoder_type: 'dino_v2'
+radar_encoder_type: 'voxel_net'
+use_rpn_radar: false
+train_task: 'both'
+use_radar: true
+use_radar_filters: false
+use_radar_encoder: true
+use_metaradar: false
+use_shallow_metadata: true
+use_pre_scaled_imgs: false
+use_obj_layer_only_on_map: true
+init_query_with_image_feats: true
+do_rgbcompress: true
+use_multi_scale_img_feats: true
+num_layers: 6
+
+device_ids: [0]
+freeze_dino: true
+do_feat_enc_dec: true
+combine_feat_init_w_learned_q: true
+model_type: 'transformer'
+use_radar_occupancy_map: false
+learnable_fuse_query: true
