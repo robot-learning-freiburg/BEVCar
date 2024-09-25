@@ -188,7 +188,7 @@ For any commercial purpose, please contact the authors.
 
 We thank the authors of [Simple-BEV](https://github.com/aharley/simple_bev) for publicly releasing their [source code](https://github.com/aharley/simple_bev).
 
-This work was funded by Qualcomm Technologies Inc. and the German Research Foundation (DFG) Emmy Noether Program grant No 468878300.
+This work was funded by Qualcomm Technologies Inc., the German Research Foundation (DFG) Emmy Noether Program grant No 468878300, and an academic grant from NVIDIA.
 <br><br>
 <p float="left">
   <a href="https://www.qualcomm.com/"><img src="./assets/qualcomm_logo.png" alt="drawing" height="80"/></a>
