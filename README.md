@@ -8,8 +8,9 @@ This repository is the official implementation of the paper:
 > [Jonas Schramm]()&ast;, [Niclas Vödisch](https://vniclas.github.io/)&ast;, [Kürsat Petek](http://www2.informatik.uni-freiburg.de/~petek/)&ast;, [B Ravi Kiran](), [Senthil Yogamani](), [Wolfram Burgard](https://www.utn.de/person/wolfram-burgard/), and [Abhinav Valada](https://rl.uni-freiburg.de/people/valada). <br>
 > &ast;Equal contribution. <br>
 >
-> *arXiv preprint arXiv:2403.11761*, 2024 <br>
-> (Accepted for *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2024)
+> *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2024 <br>
+> **IROS Best Paper on Cognitive Robotics - Winner** <br>
+> **IROS Best Student Paper - Finalist**
 
 <p align="center">
   <img src="./assets/bevcar_overview.png" alt="Overview of BEVCar approach" width="800" />
