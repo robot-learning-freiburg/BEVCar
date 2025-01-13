@@ -1,5 +1,5 @@
 # BEVCar
-[**arXiv**](https://arxiv.org/abs/2403.11761) | [**Website**](http://bevcar.cs.uni-freiburg.de/) | [**Video**](https://youtu.be/bB_k_6IvPHQ?feature=shared)
+[**arXiv**](https://arxiv.org/abs/2403.11761) | [**IEEE Xplore**](https://ieeexplore.ieee.org/document/10802147) | [**Website**](http://bevcar.cs.uni-freiburg.de/) | [**Video**](https://youtu.be/bB_k_6IvPHQ?feature=shared)
 
 This repository is the official implementation of the paper:
 
@@ -8,7 +8,7 @@ This repository is the official implementation of the paper:
 > [Jonas Schramm]()&ast;, [Niclas Vödisch](https://vniclas.github.io/)&ast;, [Kürsat Petek](http://www2.informatik.uni-freiburg.de/~petek/)&ast;, [B Ravi Kiran](), [Senthil Yogamani](), [Wolfram Burgard](https://www.utn.de/person/wolfram-burgard/), and [Abhinav Valada](https://rl.uni-freiburg.de/people/valada). <br>
 > &ast;Equal contribution. <br>
 >
-> *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2024 <br>
+> *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2024, pp. 1435-1442 <br>
 > **IROS Best Paper on Cognitive Robotics - Winner** <br>
 > **IROS Best Student Paper - Finalist**
 
@@ -18,11 +18,12 @@ This repository is the official implementation of the paper:
 
 If you find our work useful, please consider citing our paper:
 ```
-@article{schramm2024bevcar,
-  title={BEVCar: Camera-Radar Fusion for BEV Map and Object Segmentation},
+@inproceedings{schramm2024bevcar,
   author={Schramm, Jonas and Vödisch, Niclas and Petek, Kürsat and Kiran, B Ravi and Yogamani, Senthil and Burgard, Wolfram and Valada, Abhinav},
-  journal={arXiv preprint arXiv:2403.11761},
-  year={2024}
+  booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={{BEVCar}: Camera-Radar Fusion for BEV Map and Object Segmentation}, 
+  year={2024},
+  pages={1435-1442},
 }
 ```
 
