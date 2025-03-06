@@ -117,9 +117,9 @@ python test.py
 
 ### Pre-trained network weights
 We provide the weights for the following setups:
-- BEVCar (default, DINOv2): https://drive.google.com/file/d/1vW5Kiz2LyDiAcGAQ8SWCsXGlDLhJc--f/view?usp=sharing
-- BEVCar (ResNet-101): https://drive.google.com/file/d/1DCr0cBlRHzd9GOzojm_EIMJu45NUkBwe/view?usp=sharing
-- BEVCar (camera-only, DINOv2): https://drive.google.com/file/d/17XpY-8oXKa1Sy17lO3uJnYRpNqFjYv5l/view?usp=sharing
+- BEVCar (default, DINOv2): https://bevcar.cs.uni-freiburg.de/downloads/BEVCar_model-000050000.pth
+- BEVCar (ResNet-101): https://bevcar.cs.uni-freiburg.de/downloads/BEVCar_ResNet_model-000050000.pth
+- BEVCar (camera-only, DINOv2): https://bevcar.cs.uni-freiburg.de/downloads/CAM_ONLY_model-000050000.pth
 
 After downloading, save the files as:
 ```
